@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Sywordtech.Models;
 
 namespace Sywordtech.Controllers;
@@ -19,6 +20,14 @@ public class HomeController : Controller
     }
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+    public IActionResult About()
+    {
+        return View();
+    }
+    public IActionResult Contacto()
     {
         return View();
     }

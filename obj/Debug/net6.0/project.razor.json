@@ -16298,8 +16298,23 @@
   "RootNamespace": "Sywordtech",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Categorias\\Delete.cshtml",
+      "TargetPath": "Views\\Categorias\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Delete.cshtml",
+      "TargetPath": "Views\\Especificacions\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Noticias\\Index.cshtml",
+      "TargetPath": "Views\\Noticias\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16308,8 +16323,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Productoes\\Details.cshtml",
+      "TargetPath": "Views\\Productoes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Delete.cshtml",
+      "TargetPath": "Views\\Tipos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Productoes\\Edit.cshtml",
+      "TargetPath": "Views\\Productoes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Index.cshtml",
+      "TargetPath": "Views\\Especificacions\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Noticias\\Delete.cshtml",
+      "TargetPath": "Views\\Noticias\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Noticias\\Edit.cshtml",
+      "TargetPath": "Views\\Noticias\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Productoes\\Create.cshtml",
+      "TargetPath": "Views\\Productoes\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16318,8 +16373,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Servicios.cshtml",
+      "TargetPath": "Views\\Tipos\\Servicios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Productoes\\Index.cshtml",
+      "TargetPath": "Views\\Productoes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Create.cshtml",
+      "TargetPath": "Views\\Tipos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Tienda.cshtml",
+      "TargetPath": "Views\\Tipos\\Tienda.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Noticias\\Details.cshtml",
+      "TargetPath": "Views\\Noticias\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Categorias\\Edit.cshtml",
+      "TargetPath": "Views\\Categorias\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Index.cshtml",
+      "TargetPath": "Views\\Tipos\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,13 +16418,58 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Details.cshtml",
+      "TargetPath": "Views\\Especificacions\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Productoes\\Delete.cshtml",
+      "TargetPath": "Views\\Productoes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Categorias\\Create.cshtml",
+      "TargetPath": "Views\\Categorias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Categorias\\Index.cshtml",
+      "TargetPath": "Views\\Categorias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\Contacto.cshtml",
+      "TargetPath": "Views\\Home\\Contacto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Noticias\\Create.cshtml",
+      "TargetPath": "Views\\Noticias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Edit.cshtml",
+      "TargetPath": "Views\\Especificacions\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Create.cshtml",
+      "TargetPath": "Views\\Especificacions\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Categorias\\Details.cshtml",
+      "TargetPath": "Views\\Categorias\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
         "projectName": "Sywordtech",
-        "projectPath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

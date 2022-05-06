@@ -1,0 +1,141 @@
+﻿@model IEnumerable<Sywordtech.Models.Producto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@* <table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descuento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaEntrega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EntregaDomicilio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Disponible)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Especificacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imagen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descuento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaEntrega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EntregaDomicilio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Disponible)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categoria.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Especificacion.ID)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody> *@
+</table>
+    <!-- ======= Pricing Section ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+@foreach (var item in Model) {
+          <div class="col-lg-3 col-md-6">
+            <div class="box featured">
+              <h3>@item.Nombre</h3>
+              <h4><sup>$</sup>@item.Precio.ToString("C0").Replace("€", "")<span> / unidad</span></h4>
+              
+              <ul>
+                 <img src="@item.Imagen" style="width: 100%" /> 
+                <li><b>Cantidad en Tienda: </b>@item.Color</li>
+              </ul>
+              <div class="btn-wrap">
+                <a asp-area="" asp-action="#" asp-route-id="@item.ID" class="btn-buy">Comprar</a>
+                <a asp-area="" asp-action="Details" asp-route-id="@item.ID" class="btn-buy">Detalles</a>
+                <a asp-area="" asp-action="Delete" asp-route-id="@item.ID" class="btn-buy">Borrar</a>
+              </div>
+            </div>
+          </div>
+}
+        </div>
+      </div>
+    </section>
+    <!--End Pricing Section -->
+
+    
+
+<!--div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+            <div class="box featured">
+              <span class="advanced">Advanced</span>
+              <h3>Business</h3>
+              <h4><sup>$</sup>19<span> / month</span></h4>
+              <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li class="na">Massa ultricies mi</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div-->

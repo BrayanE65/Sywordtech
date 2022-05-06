@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O55H9HE4Xweqr8B5aZm2QVhSlmmCutxtYfhBA5WMV/jg5cQMFcX7gu8YRr0uO+Qgrev3XBAk9r1o8dFgPJ65ww==",
+  "dgSpecHash": "RsEsOAeqcAavC7ggaDi8onynVyG7MNMtTrmW2JY0lMh3H9kxzNVtf2qoTlinzAUHFnAWF0hA7WDkk5eqVYBY1g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.4\\microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
