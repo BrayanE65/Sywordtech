@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iclEFKkagD7e8pKvu+Lgu2CGTRX9akINdLAH1XPHh1w=",
+  "Hash": "rJTm6uYlgK1uxlNFHawBj4XMGvf8OwgQUOgXRhU+DA8=",
   "Source": "Sywordtech",
   "BasePath": "_content/Sywordtech",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\favicon.ico",
+      "SourceId": "Sywordtech",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\",
+      "BasePath": "_content/Sywordtech",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\forms\\contact.php",
       "SourceId": "Sywordtech",
       "SourceType": "Discovered",
@@ -1171,23 +1188,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\img\\apple-touch-icon.png",
-      "SourceId": "Sywordtech",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\",
-      "BasePath": "_content/Sywordtech",
-      "RelativePath": "img/apple-touch-icon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\apple-touch-icon.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\img\\blog\\blog-1.jpg",
@@ -1613,23 +1613,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-8.png"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\img\\favicon.png",
-      "SourceId": "Sywordtech",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\",
-      "BasePath": "_content/Sywordtech",
-      "RelativePath": "img/favicon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\wwwroot\\img\\portfolio\\portfolio-1.jpg",

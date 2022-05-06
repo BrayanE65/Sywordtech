@@ -16348,6 +16348,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\Servicios.cshtml",
+      "TargetPath": "Views\\Home\\Servicios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Especificacions\\Index.cshtml",
       "TargetPath": "Views\\Especificacions\\Index.cshtml",
       "FileKind": "mvc"
@@ -16373,8 +16378,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Servicios.cshtml",
-      "TargetPath": "Views\\Tipos\\Servicios.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\Blog.cshtml",
+      "TargetPath": "Views\\Home\\Blog.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16388,8 +16393,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Tipos\\Tienda.cshtml",
-      "TargetPath": "Views\\Tipos\\Tienda.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Views\\Home\\Tienda.cshtml",
+      "TargetPath": "Views\\Home\\Tienda.cshtml",
       "FileKind": "mvc"
     },
     {
