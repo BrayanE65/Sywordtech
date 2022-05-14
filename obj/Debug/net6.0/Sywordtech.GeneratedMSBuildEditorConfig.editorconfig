@@ -8,197 +8,197 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sywordtech
 build_property.RootNamespace = Sywordtech
-build_property.ProjectDir = c:\Users\Usuario\Desktop\Proyects\Proyectos MvC\Sywordtech\
+build_property.ProjectDir = C:\Users\Usuario\Desktop\Proyects\Proyectos MvC\Sywordtech\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Usuario\Desktop\Proyects\Proyectos MvC\Sywordtech
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\Proyects\Proyectos MvC\Sywordtech
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZmljYWNpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZmljYWNpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZmljYWNpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZmljYWNpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Especificacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZmljYWNpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/About.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Blog.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Contacto.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Contacto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Privacy.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Servicios.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Servicios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNpb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Tienda.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Home/Tienda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaWVuZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Noticias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Productoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Rols/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/Error.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Tipos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Create.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1JvbHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Delete.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1JvbHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Details.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1JvbHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Edit.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1JvbHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Index.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/UsuarioRols/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1JvbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/_ViewImports.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/_ViewStart.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_Layout.cshtml]
+[C:/Users/Usuario/Desktop/Proyects/Proyectos MvC/Sywordtech/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h9b82v8v9i

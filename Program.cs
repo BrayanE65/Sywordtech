@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Sywordtech.Data;
+using Sywordtech.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +12,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddRoles<IdentityRole>()
+    .AddRoles<Rol>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 // builder.Services.AddAuthorization(options =>

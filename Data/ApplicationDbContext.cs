@@ -18,14 +18,27 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser, Rol, string,
         
          public DbSet<Producto> Productos { get; set; }
         
-        public DbSet<Categoria> Categorias { get; set; }
+         public DbSet<Categoria> Categorias { get; set; }
         
          public DbSet<Especificacion> Especificaciones { get; set; }
         
          public DbSet<Noticia> Noticias { get; set; }
          
          public DbSet<Tipo> Tipos { get; set; }
+         
 
+         protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
 
+            builder.Entity<Rol>(b =>
+            {
+                b.HasMany(e => e.UsuariosRoles)
+                .WithOne(e => e.Rol)
+                .HasForeignKey(ur => ur.RoleId)
+                .IsRequired();
+            });
+
+        }
 
 }
