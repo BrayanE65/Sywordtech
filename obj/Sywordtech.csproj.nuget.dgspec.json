@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Sywordtech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Sywordtech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Sywordtech.csproj",
         "projectName": "Sywordtech",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\Sywordtech.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Sywordtech.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\New MvC\\Sywordtech\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -57,13 +57,27 @@
               "target": "Package",
               "version": "[6.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [

@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Sywordtech.Models;
@@ -18,6 +19,7 @@ public class HomeController : Controller
     {
         return View();
     }
+    [Authorize]
     public IActionResult Servicios()
     {
         return View();
