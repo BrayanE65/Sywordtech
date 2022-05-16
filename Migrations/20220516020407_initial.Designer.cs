@@ -11,13 +11,13 @@ using Sywordtech.Data;
 namespace Sywordtech.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220514072139_v1.01")]
-    partial class v101
+    [Migration("20220516020407_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "6.0.4");
+            modelBuilder.HasAnnotation("ProductVersion", "6.0.5");
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {

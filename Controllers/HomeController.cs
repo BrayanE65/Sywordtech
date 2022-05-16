@@ -24,6 +24,7 @@ public class HomeController : Controller
     {
         return View();
     }
+    [Authorize(Roles = "Administrator")]
     public IActionResult Tienda()
     {
         return View();

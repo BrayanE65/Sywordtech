@@ -11,8 +11,8 @@ using Sywordtech.Data;
 namespace Sywordtech.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220514075541_v1.02")]
-    partial class v102
+    [Migration("20220516023059_v1.1")]
+    partial class v11
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

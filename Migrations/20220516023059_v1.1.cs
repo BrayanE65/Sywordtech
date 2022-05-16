@@ -4,17 +4,37 @@
 
 namespace Sywordtech.Migrations
 {
-    public partial class v103 : Migration
+    public partial class v11 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AddColumn<string>(
-                name: "Discriminator",
-                table: "AspNetUsers",
-                type: "TEXT",
-                nullable: false,
-                defaultValue: "");
+            migrationBuilder.DropForeignKey(
+                name: "FK_AspNetUserRoles_AspNetRoles_RolId",
+                table: "AspNetUserRoles");
 
+            migrationBuilder.DropForeignKey(
+                name: "FK_AspNetUserRoles_AspNetUsers_UsuarioId",
+                table: "AspNetUserRoles");
+
+            migrationBuilder.DropIndex(
+                name: "IX_AspNetUserRoles_RolId",
+                table: "AspNetUserRoles");
+
+            migrationBuilder.DropIndex(
+                name: "IX_AspNetUserRoles_UsuarioId",
+                table: "AspNetUserRoles");
+
+            migrationBuilder.DropColumn(
+                name: "RolId",
+                table: "AspNetUserRoles");
+
+            migrationBuilder.DropColumn(
+                name: "UsuarioId",
+                table: "AspNetUserRoles");
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
             migrationBuilder.AddColumn<string>(
                 name: "RolId",
                 table: "AspNetUserRoles",
@@ -50,37 +70,6 @@ namespace Sywordtech.Migrations
                 column: "UsuarioId",
                 principalTable: "AspNetUsers",
                 principalColumn: "Id");
-        }
-
-        protected override void Down(MigrationBuilder migrationBuilder)
-        {
-            migrationBuilder.DropForeignKey(
-                name: "FK_AspNetUserRoles_AspNetRoles_RolId",
-                table: "AspNetUserRoles");
-
-            migrationBuilder.DropForeignKey(
-                name: "FK_AspNetUserRoles_AspNetUsers_UsuarioId",
-                table: "AspNetUserRoles");
-
-            migrationBuilder.DropIndex(
-                name: "IX_AspNetUserRoles_RolId",
-                table: "AspNetUserRoles");
-
-            migrationBuilder.DropIndex(
-                name: "IX_AspNetUserRoles_UsuarioId",
-                table: "AspNetUserRoles");
-
-            migrationBuilder.DropColumn(
-                name: "Discriminator",
-                table: "AspNetUsers");
-
-            migrationBuilder.DropColumn(
-                name: "RolId",
-                table: "AspNetUserRoles");
-
-            migrationBuilder.DropColumn(
-                name: "UsuarioId",
-                table: "AspNetUserRoles");
         }
     }
 }
