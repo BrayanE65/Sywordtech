@@ -12,6 +12,105 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1394536587,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Pages.Counter",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1886081807,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Pages.Counter",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Sywordtech.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1024634766,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Pages.Index",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 493658447,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Pages.Index",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Sywordtech.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1837514237,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Views.Components.Breadcrumbs",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Breadcrumbs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Views.Components.Breadcrumbs"
+        }
+      },
+      {
+        "HashCode": 389896657,
+        "Kind": "Components.Component",
+        "Name": "Sywordtech.Views.Components.Breadcrumbs",
+        "AssemblyName": "Sywordtech",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Sywordtech.Views.Components.Breadcrumbs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Sywordtech.Views.Components.Breadcrumbs",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1065816939,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16303,6 +16402,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Components\\Breadcrumbs.razor",
+      "TargetPath": "Views\\Components\\Breadcrumbs.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Rols\\Edit.cshtml",
       "TargetPath": "Views\\Rols\\Edit.cshtml",
       "FileKind": "mvc"
@@ -16453,6 +16562,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Categorias\\Create.cshtml",
       "TargetPath": "Views\\Categorias\\Create.cshtml",
       "FileKind": "mvc"
@@ -16460,6 +16574,11 @@
     {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Home\\Tienda.cshtml",
       "TargetPath": "Views\\Home\\Tienda.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Pages\\_Layout.cshtml",
+      "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16480,6 +16599,11 @@
     {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16521,6 +16645,11 @@
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Proyects\\Proyectos MvC\\Sywordtech\\Views\\Home\\Index.cshtml",

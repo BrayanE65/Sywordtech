@@ -1,24 +1,9 @@
 @{
     ViewData["Title"] = "Blog";
 }
+
 <main id="main">
-
-    <!-- ======= Breadcrumbs ======= -->
-    <section id="breadcrumbs" class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2>@ViewData["Title"]</h2>
-          <ol>
-            <li><a asp-controller="Home" asp-action="Index">Inicio</a></li>
-            <li>@ViewData["Title"]</li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- End Breadcrumbs -->
-
-    <!-- ======= Blog Section ======= -->
+@(await Html.RenderComponentAsync<Breadcrumbs>(RenderMode.Static))
     <section id="blog" class="blog">
       <div class="container" data-aos="fade-up">
 
@@ -241,3 +226,4 @@
     </section><!-- End Blog Section -->
 
   </main><!-- End #main -->
+  
